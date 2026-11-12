@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "did": "did:web:lnscorey.github.io:coreydotcom",
+  "siteUrl": "https://lnscorey.github.io/coreydotcom",
+  "handle": "lnscorey.github.io",
+  "displayName": "Corey Lines Dot Com",
+  "tagline": "Corey's Dot Com Space",
+  "bio": "",
+  "location": "",
+  "avatarUrl": "",
+  "bannerUrl": "",
+  "interests": [],
+  "customLinks": [
+    {
+      "label": "My Webring Feed",
+      "url": "./api/manifest.json"
+    },
+    {
+      "label": "DID Identity",
+      "url": "./.well-known/did.json"
+    }
+  ],
+  "theme": "neo-webring",
+  "atprotoHandle": "",
+  "updatedAt": "2026-11-12T01:44:25.640Z",
+  "proof": {
+    "type": "Ed25519Signature2020",
+    "created": "2026-11-12T01:44:25.640Z",
+    "verificationMethod": "did:web:lnscorey.github.io:coreydotcom#key-1",
+    "signatureValue": "btKiUNE6q9YBPIZBv0vsmAOTajpr1a6GzjhJCzaWWExHx2ME96m-OxNVLBbbWVIecciHUgGB1OjCYW1kSZAHAQ"
+  }
+}

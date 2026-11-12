@@ -1,0 +1,43 @@
+{
+  "schemaVersion": "1.0.0",
+  "siteUrl": "https://lnscorey.github.io/coreydotcom",
+  "did": "did:web:lnscorey.github.io:coreydotcom",
+  "updatedAt": "2026-11-12T01:44:25.640Z",
+  "endpoints": {
+    "did": "/.well-known/did.json",
+    "profile": "/api/profile.json",
+    "albums": "/api/albums.json",
+    "items": "/api/items.json",
+    "connections": "/api/connections.json"
+  },
+  "stats": {
+    "albumCount": 0,
+    "photoCount": 0,
+    "itemCount": 0,
+    "friendCount": 0,
+    "webringCount": 0
+  },
+  "documents": {
+    "did": {
+      "sha256": "89459d2626327a46117996985295f5234a7405dba7602c5620c13d48442854db"
+    },
+    "profile": {
+      "sha256": "8610044b8ad44682cc5492b3de17c85458db2f3e79cc5f5afbfb29a10619ee86"
+    },
+    "albums": {
+      "sha256": "0be12733c37fab03e10c90f7c48a76de108f949c2cae88310da9fdd2877d0827"
+    },
+    "items": {
+      "sha256": "90330f1a43a51ef2b67f064bdbf585fb5582ea07f8f4d247fce0643ae1f413c7"
+    },
+    "connections": {
+      "sha256": "60b9577bc3f6dff937a6098c41d563b250c69c6cafc8c98bfc8722843b64b2d4"
+    }
+  },
+  "proof": {
+    "type": "Ed25519Signature2020",
+    "created": "2026-11-12T01:44:25.640Z",
+    "verificationMethod": "did:web:lnscorey.github.io:coreydotcom#key-1",
+    "signatureValue": "iuJ_wUOLfx7k24ecUlM47TpOWUppm9CdS8lCoCduYyWoW1ifH14aPIc5U91VcJOB3L8rn4u8qXYPM3m0FQO5Bg"
+  }
+}

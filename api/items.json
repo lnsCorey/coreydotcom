@@ -1,0 +1,13 @@
+{
+  "schemaVersion": "1.0.0",
+  "siteUrl": "https://lnscorey.github.io/coreydotcom",
+  "did": "did:web:lnscorey.github.io:coreydotcom",
+  "updatedAt": "2026-11-12T01:44:25.640Z",
+  "items": [],
+  "proof": {
+    "type": "Ed25519Signature2020",
+    "created": "2026-11-12T01:44:25.640Z",
+    "verificationMethod": "did:web:lnscorey.github.io:coreydotcom#key-1",
+    "signatureValue": "9JYg88p617h6jyw9zfIzzCpsAH_ti9PDmi39Pf0dBLnWTixbr7-jX2xBoK4_kJV5TkwqKokapEz3kmv4ESlkBg"
+  }
+}
